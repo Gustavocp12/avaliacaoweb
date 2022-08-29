@@ -1,0 +1,61 @@
+*{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.fc{
+	float: left;
+	margin-left: 100px;
+}
+
+.prod{
+	margin-left: 700px;
+	margin-top: 50px;
+}
+
+#caixa-1{
+	border: 3px solid #80d4ff;
+	border-radius: 6px;
+	width: 500px;
+	height: 25px;
+	margin: 5px;
+}
+
+#btn-1{
+	border: none;
+	border-radius: 5px;
+	width: 150px;
+	height: 25px;
+	outline: none;
+	background-color: #005580;
+	margin-left: 6px;
+	margin-top: 10px;
+	color: white;
+}
+
+#caixa-2{
+	border: 3px solid #80d4ff;
+	border-radius: 6px;
+	width: 500px;
+	height: 25px;
+	margin: 5px;
+}
+
+.caixa-2{
+	border: 3px solid #80d4ff;
+	border-radius: 6px;
+	width: 500px;
+	height: 25px;
+	margin: 5px;
+}
+
+#btn-2{
+	border: none;
+	border-radius: 5px;
+	width: 150px;
+	height: 25px;
+	outline: none;
+	background-color: #005580;
+	margin-left: 6px;
+	margin-top: 10px;
+	color: white;
+}
